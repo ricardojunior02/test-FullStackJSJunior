@@ -1,0 +1,17 @@
+[
+  {
+    "id": "19f7d8a7-2afb-40b7-8fdc-7bcdd3456ca1",
+    "email": "teste2@teste.com",
+    "password": "$2a$08$rJ8bbBARer5jNAfH6kGUIezZrdd5yE4hJXbHitlkKKKT9no66pjS6"
+  },
+  {
+    "id": "d5b223fc-8cac-441d-bcaf-cae5ebd78b78",
+    "email": "teste@teste.com",
+    "password": "$2a$08$8jTrBaujy28jf9/A8Oly3ONnHAEPb7qxi8Z89w.aRGVVhfI8ITRgq"
+  },
+  {
+    "id": "dfb0d79c-ef50-4991-a583-12f25c1630b5",
+    "email": "teste1@teste.com",
+    "password": "$2a$08$FDwWx84mW4g8mNKq.adYLO.YPk3uqpC/NtDR6lVN1TDGBf/VYxe9e"
+  }
+]
